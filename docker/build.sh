@@ -1,4 +1,4 @@
 #!/bin/sh
 
-docker build -t pcdet-docker .
+docker pull curtkim/pcdet-docker
 
