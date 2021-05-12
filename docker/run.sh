@@ -14,4 +14,4 @@ docker run -it \
 	--hostname="inside-DOCKER" \
 	--name="pcdet" \
         -v $EXCHANGE:/root/exchange \
-	pcdet-docker bash
+	curtkim/pcdet-docker bash
